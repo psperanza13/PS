@@ -1,0 +1,3 @@
+kategagg, 5, 152 
+alicante, 5, 182 
+portugal, 6, 213 

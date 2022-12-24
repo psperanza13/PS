@@ -1,0 +1,20 @@
+3
+kategagg, 5, 5
+ragnar, 23, 45
+rollo, 22, 37
+lagertha, 22, 30
+floki, 22, 30
+athelstan, 20, 10
+alicante, 5, 5
+jace, 20, 40
+simon, 21, 23
+clarissa, 21, 34
+isabelle, 21, 35
+lucian, 35, 50
+portugal, 6, 6
+ronaldo, 37, 55
+bruno, 27, 35
+leao, 22, 20
+bernardo, 25, 30
+nani, 38, 43
+joaof, 22, 30
